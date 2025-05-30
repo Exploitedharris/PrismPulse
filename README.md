@@ -62,7 +62,7 @@ This open-source project is designed for developers, gamers, and educators inter
 Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request. For major changes, open an issue to discuss your ideas.
 
 ## Sponsorship
-Support PrismPulse’s development through [GitHub Sponsors](https://github.com/sponsors/yourusername)! Your contributions fund:
+Support PrismPulse’s development through [GitHub Sponsors](https://github.com/sponsors/Exploitedharris)! Your contributions fund:
 - New lens types and receptor patterns.
 - Enhanced shadow pulse mechanics and visual effects.
 - Tutorials for C++ and light-based game mechanics.
